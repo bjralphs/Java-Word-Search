@@ -1,4 +1,4 @@
-# Java-BMI-Application
+# Java-Word-Search
 * Program accepts a text document from the terminal and outputs the requested words along with the coordinates of where they are found within a word search grid.
 
 # Instruction
